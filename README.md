@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-< 💫 About Me:
+💫 About Me:
 🔭 Working on transformer-based extraction of safety insights from text.<br>🧑‍🤝‍🧑 Open to collaborating on prompt engineering or AI pipeline design.<br>🤝 Looking for help with optimizing LLM responses and outputs.<br>🌱 Learning new ways to improve structured information extraction.<br>💬 Ask about language models, safety research, or academic life.<br>⚡ Fun fact: Keeps a separate folder just for “accidentally great” results.<br><br>
 
 
